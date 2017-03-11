@@ -1,3 +1,6 @@
+
+
+
 <!--
 author: W3layouts
 author URL: http://w3layouts.com
@@ -16,16 +19,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- font-awesome icons -->
-<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
 <!-- //font-awesome icons -->
 <!-- js -->
-<script src="assets/jquery-1.11.1.min.js"></script>
 <!-- //js -->
-<link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
-<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+<!-- <link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'> -->
 <!-- start-smoth-scrolling -->
 <script type="text/javascript" src="assets/move-top.js"></script>
 <script type="text/javascript" src="assets/easing.js"></script>
@@ -38,6 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	});
 </script>
 <!-- start-smoth-scrolling -->
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 </head>
 
 <body>
@@ -46,12 +46,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="w3l_offers">
 			<a href="products.html">Today's special Offers !</a>
 		</div>
-		<div class="w3l_search">
-			<form action="#" method="post">
-				<input type="text" name="Product" value="Search a product..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search a product...';}" required="">
-				<input type="submit" value=" ">
-			</form>
-		</div>
+    <div class="w3l_search ui-widget">
+      <input id="autocomplete" >
+    </div>
 		<div class="product_list_header">
 			<form action="#" method="post" class="last">
                 <fieldset>
@@ -211,7 +208,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</section>
 			<!-- flexSlider -->
-				<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 				<script defer src="assets/jquery.flexslider.js"></script>
 				<script type="text/javascript">
 				$(window).load(function(){
@@ -565,7 +561,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
-<script src="assets/bootstrap.min.js"></script>
 <script>
 $(document).ready(function(){
     $(".dropdown").hover(

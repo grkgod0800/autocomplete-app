@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.ui-widget-content {
+  background: white;
+}
+
+.ui-widget-content li.ui-state-focus {
+  background: rgb(14, 41, 227);
+  color: white;
+}
