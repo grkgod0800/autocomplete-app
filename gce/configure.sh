@@ -17,18 +17,18 @@
 set -e
 
 # [START logging]
-curl -s "https://storage.googleapis.com/signals-agents/logging/google-fluentd-install.sh" | bash
-cat >/etc/google-fluentd/config.d/railsapp.conf << EOF
-<source>
-  type tail
-  format none
-  path /opt/app/autocomplete-app/log/*.log
-  pos_file /var/tmp/fluentd.railsapp.pos
-  read_from_head true
-  tag railsapp
-</source>
-EOF
-service google-fluentd restart &
+# curl -s "https://storage.googleapis.com/signals-agents/logging/google-fluentd-install.sh" | bash
+# cat >/etc/google-fluentd/config.d/railsapp.conf << EOF
+# <source>
+#   type tail
+#   format none
+#   path /opt/app/autocomplete-app/log/*.log
+#   pos_file /var/tmp/fluentd.railsapp.pos
+#   read_from_head true
+#   tag railsapp
+# </source>
+# EOF
+# service google-fluentd restart &
 # [END logging]
 
 # Install dependencies from apt
