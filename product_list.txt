@@ -1,0 +1,158 @@
+Aluminum Foil
+Apple Juice
+Apple Sauce
+Apples, Gala, bag
+Apples, Red/Golden Delicious, bag
+Bacon
+Bagles, plain
+Baguette/French Bread
+Barbeque Sauce
+Beef Stew Meat
+Beer, bottle, pilsener, import
+Beer, can
+Brats, 4-6 pack
+Bread Crumbs
+Bread, 12 grain
+Breakfast Sausage, frozen
+Butter, real, unsalted/salted
+Carrots, whole
+Cereal, Müsli style
+Cheery Pie Filling
+Cheese Singles (imitation)
+Cheese, block (regular)
+Cheese, Boursin
+Cheese, Brie
+Cheese, shredded, Mexican style
+Cheese, shredded, Mozarella
+Cheese, sliced, deli
+Cheese, sliced, regular
+Cheese, wedge (real, deli)
+Chicken Breasts, frozen
+Chicken Noodle Soup, condensed
+Chicken Noodle Soup, regular
+Chicken Nuggets, frozen
+Chicken Tenderloins, frozen
+Chips, potato chips
+Chocolate Chip Cookie Dough
+Cocoa Rice Cereal
+Coconut Milk
+Coffee
+Cold Cuts, ham or chicken
+Cold Cuts, turkey variety
+Corn Flakes, regular
+Corn Flakes, sugar frosted
+Cottage Cheese
+Cream Cheese
+Cream, heavy whipping
+Croissants
+Eggs, cage free
+Eggs, regular
+Fish, Flounder, frozen
+Fish, Mahi Mahi, frozen
+Fish, Tilapia, frozen
+Flour, all purpose
+Flour, self rising
+French Fries, frozen
+Fruit, frozen
+Granola Bars, high fiber
+Granola Bars, regular
+Grapes, red
+Green Beans, canned
+Ground Beef (chuck), fresh
+Ground Beef (sirloin), fresh
+Ground Beef, frozen
+Ground Turkey, fresh
+Ground Turkey, frozen
+Ham, half
+Honey
+Honey Crunch Oats
+Hot Dog Buns
+Ice Cream, premium
+Ice Cream, simple
+Jalopeño Peppers, canned
+Ketchup
+Kielbasa
+Lemons
+Lettuce, iceberg
+Mandarin Oranges, canned
+Margarine/Spread
+Mayonnaise
+Milk
+Milk Chocolate Bar
+Milk, organic
+Mushrooms, stems/pieces
+Mushrooms, whole
+Mustard, dijon
+Mustard, yellow
+Nutella
+Oat Meal
+Oil, Canola, 100% pure
+Oil, Olive, 100% pure
+Oil, Olive, extra virgin
+Onions, yellow
+Orange Juice, not from concentrate
+Oranges
+Pancetta, diced
+Paper Towles
+Pasta, Egg Noodles
+Pasta, Ellbow Maccaroni
+Pasta, Penne Rigate
+Pasta, Rotini/Rotelle/Fusilli
+Pasta, Spaghetti
+Peanut Butter
+Peanuts, roasted
+Pears
+Pepper, black, ground
+Pizza Dough
+Pizza, frozen (premium)
+Pizza, frozen (simple)
+Plastic Wrap
+Pork Tenderloin, small
+Potatoes, gold (Yukon)
+Potatoes, red
+Potatoes, Russet
+Preserves
+Pretzels
+Ribs, Baby Back (pork, unseasoned)
+Ribs, Spare Back (pork, unseasoned)
+Rice, instant, white
+Rice, regular
+Salad Dressing
+Salami, sliced
+Salami, whole
+Salsa, medium hot
+Salt
+Soda, bottle
+Soda, bottle (Coke product)
+Soda, can
+Soda, can (Coke product)
+Soup, organic
+Sour Cream
+Spaghetti Sauce
+Sugar, brown
+Sugar, powdered
+Sugar, white
+Syrup, breakfast
+Tea, green, bags
+Tomato Paste
+Tomato Sauce
+Tomato Soup, condensed
+Tomato Soup, regular
+Tomatoes
+Tuna, chunky, in water
+Tuna, solid, in water
+Vanilla Extract, pure
+Veggies, frozen
+Waffles, frozen
+Water, regular/drinking
+Water, Sparkling/Mineral
+White Bread/Toast, enriched
+Wine, table, Cabernet
+Wine, table, Chardonnay
+Wine, table, White Zinfandel
+Yoghurt, Dannon (etc.)
+Yogurt, Fage, 2%, plain
+Yogurt, Fage, w/ flavor
+Yogurt, flavored, cup
+Yogurt, greek style, plain
+Yogurt, plain
