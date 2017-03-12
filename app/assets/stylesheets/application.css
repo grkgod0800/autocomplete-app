@@ -15,7 +15,7 @@
  */
 
 .ui-widget-content {
-  background: white;
+  background: white !important;
 }
 
 .ui-widget-content li.ui-state-focus {
