@@ -10,6 +10,13 @@ Barbeque Sauce
 Beef Stew Meat
 Beer, bottle, pilsener, import
 Beer, can
+Beer, Blue Moon
+Beer, Corona
+Beef Steak Tomatoes
+Beef Flank Steak
+Beef Round Chuck
+Beef 1lb Ground Chuck
+Beef Roast
 Brats, 4-6 pack
 Bread Crumbs
 Bread, 12 grain
@@ -45,6 +52,7 @@ Cottage Cheese
 Cream Cheese
 Cream, heavy whipping
 Croissants
+Cucumbers
 Eggs, cage free
 Eggs, regular
 Fish, Flounder, frozen
