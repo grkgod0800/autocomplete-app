@@ -13,8 +13,10 @@
  *= require_tree .
  *= require_self
  */
-
-.ui-widget-content {
+.agileits_header {
+  z-index: 100;
+}
+ul.ui-widget-content.ui-widget.ui-front {
   background: white !important;
   z-index: 1000;
 }
